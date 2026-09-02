@@ -1,4 +1,4 @@
-# Actuarial Analytics Platform
+# General Insurance Pricing & Portfolio Analytics Platform
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://actuarial-analytics-platform-cntcazjrwtsnzyhphch5vt.streamlit.app/)
 ---
@@ -6,7 +6,7 @@
 An end-to-end General Insurance Pricing & Portfolio Analytics platform built using Python, Streamlit, Plotly and Statistical Modeling.
 
 The application simulates a real actuarial pricing workflow from raw portfolio ingestion through validation, cleaning, exploratory analytics, frequency modeling, severity modeling, pure premium estimation and executive reporting.
-
+![Home](assets/homepage.png)
 ---
 
 ## Key Features
